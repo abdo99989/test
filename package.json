@@ -5,6 +5,6 @@
     "jest": "^26.4.2"
   },
   "scripts": {
-    "test": "jest --extension .test.js"
+    "test": "jest"
   }
 }
